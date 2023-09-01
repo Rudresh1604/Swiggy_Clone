@@ -1,0 +1,150 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    display: flex;
+}
+
+.main .lft nav img{
+    width : 24%;
+    /* height: 40px; */
+}
+
+.main .lft nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-bottom: 37px;
+    
+    
+}
+
+.main .lft{
+    margin-top: 50px;
+    
+    
+}
+
+.main .lft .Sign{
+    width: 100px;
+    height: 34px;
+    color: whitesmoke;
+    background-color: black;
+    border-radius: 8px;
+}
+
+.main .lft nav button{
+    width: 100px;
+    height: 34px;
+    border: none;
+    margin-inline: 13px;
+    font-size: 15px;
+    
+}
+.main img{
+    width: 530px;
+}
+.main .lft .txt h1{
+    font-family: 'Mukta', sans-serif;
+    text-align: left;
+    font-size: 33px;
+}
+.main .lft .txt p{
+    font-family: 'Popins' , sans-serif;
+}
+.main .lft .txt{
+    margin-top : 77px;
+    margin-left: 66px;
+}
+.main .lft p{
+    margin-top: 22px;
+    font-size: 20px;
+}
+.lft .txt .inp{
+    display: flex;
+
+}
+.lft .txt input{
+    width: 350px;
+    height: 50px;
+    border: 2px solid rgb(238, 141, 38);
+    border-right: none;
+    padding: 8px;
+}
+.lft .txt button{
+    background: rgb(238, 141, 38);
+    color: whitesmoke;
+    font-size: 20px;
+    text-align: center;
+    width: 100px;
+    border: none;
+    
+}
+
+.card{
+    display: flex;
+    background-color: rgb(74, 3, 3);
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+    padding: 33px;
+    color: whitesmoke;
+    
+}
+
+.card  img{
+    width : 50%;
+    height: 280px;
+}
+
+.mob{
+    display: flex;
+}
+.mob .inf img{
+    height: 50px;
+    justify-content: space-around;
+    margin-left: 15px;
+    margin-top: 60px;
+    padding-left: 35px;
+    margin-inline: 5px;
+}
+.mob .inf h2{
+    font-family: 'Mukta', sans-serif;
+    text-align: left;
+    margin-left: 41px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.mob .inf p{
+    margin-left: 41px;
+    text-align: left;
+}
+.mob .rht{
+    display: flex;
+}
+.mob .rht img{
+    margin-left: 209px;
+    height: 300px;
+}
+
+.top-foot{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    
+    background-color: black;
+    padding: 20px;
+    
+    color: white;
+}
+.top-foot .list{
+    
+    margin-inline: 43px;
+}
+
+
+
+
